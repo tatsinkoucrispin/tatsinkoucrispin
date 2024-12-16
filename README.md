@@ -44,7 +44,13 @@
 ![](https://github-contributor-stats.vercel.app/api?username=tatsinkoucrispin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![Random Dev Meme](https://api.memegen.link/images/code/_/debugging_is_like_being_the_detective_in_a_crime_movie_where_you_are_also_the_murderer.png)
+
+---
+
+### 🎉 Dev Fun Fact
+Did you know?  
+> **“The first computer programmer, Ada Lovelace, was a mathematician in the 1800s who wrote the first algorithm intended to be executed by a machine!”** 🖥️
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nathan Njaha&icon=0&color=0)](https://visitcount.itsvg.in)
