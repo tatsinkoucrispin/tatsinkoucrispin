@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil GitHub 👋
-👨‍💻 Je suis [Ttatsinkou Crispin]  
-🔭 Actuellement, je travaille sur [Purpratix].  
-🌱 J’apprends actuellement [Laravel].  
+👨‍💻 Je suis Tatsinkou Crispin
+🔭 Actuellement, je travaille sur Purpratix.  
+🌱 J’apprends actuellement Laravel.  
 💬 Posez-moi des questions 
 📫 Comment me contacter : tatsinkoucrispin8@gmail.com.  
 ⚡ Fait amusant : j'aime jouer et decouvrir de nouvelle chose.  
